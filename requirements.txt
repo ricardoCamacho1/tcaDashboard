@@ -1,0 +1,11 @@
+streamlit==1.35.0
+streamlit_authenticator==0.3.2
+streamlit-option-menu==0.3.13
+streamlit_shadcn_ui==0.1.18  # Add the correct version based on available releases
+pandas==2.2.2
+streamlit-card==1.0.2 # Add the correct version based on available releases
+pyyaml==6.0.1
+plotly==5.15.0
+boto3==1.28.6
+scikit-learn
+imbalanced-learn
